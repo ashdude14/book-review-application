@@ -1,0 +1,19 @@
+{
+  "name": "book-review-app",
+  "version": "1.0.0",
+  "description": "Server Application for online book review and rating app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Aashish Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
