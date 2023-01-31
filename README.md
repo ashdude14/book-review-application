@@ -1,7 +1,7 @@
 # Book Review Application
 
 
-In this final project, we built a server-side online book review application and integrated it with a secure REST API server which will use authentication at the session level using JWT. We will then tested application using Promises callbacks or Async-Await functions and Postman API.
+In this project, we built a server-side online book review application and integrated it with a secure REST API server which will use authentication at the session level using JWT. We will then tested application using Promises callbacks or Async-Await functions and Postman API.
 ## Directory or Structure 
 
 router directory having the below 3 files:
