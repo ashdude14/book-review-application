@@ -6,11 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "start_auth": "nodemon auth_users"
   },
   "author": "Aashish Kumar Singh",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.2.6",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
     "jsonwebtoken": "^9.0.0",
